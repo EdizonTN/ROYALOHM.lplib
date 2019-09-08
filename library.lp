@@ -1,0 +1,11 @@
+(librepcb_library d3f76755-8176-4ef7-8027-68df6de95b3b
+ (name "ROYALOHM")
+ (description "This is a unnoficial testing LibrePCB library. \nROYALOHM Carbon film fixed resistors package and components.\nIPC-7251 Naming Convention: http://www.pcb-3d.com/electric_type/resistors-axial-diameter-horizontal-resad/")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-08T09:41:22Z)
+ (deprecated false)
+ (url "https://github.com/EdizonTN/ROYALOHM.lplib")
+ (dependency 42d8d2f4-d524-4472-853b-b434e3f76b71)
+)
