@@ -11,7 +11,7 @@
  (default_value "{{VALUE}}")
  (prefix "R")
  (attribute "MPN" (type string) (unit none) (value "CFR0W4J0102A50"))
- (attribute "ORDERCODE_TME" (type string) (unit none) (value "1/4W1.0K"))
+ (attribute "ORDERCODE_TME" (type string) (unit none) (value "1/4W1K"))
  (attribute "DATASHEET" (type string) (unit none) (value "https://www.tme.eu/Document/3181dd48312689b59bff6130e2889fcb/CarbonFilm.pdf"))
  (attribute "VALUE" (type resistance) (unit kiloohm) (value "1"))
  (signal 910b3574-7f84-4b11-9eae-3622d2e97491 (name "1") (role passive)
