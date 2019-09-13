@@ -1,6 +1,6 @@
 (librepcb_library d3f76755-8176-4ef7-8027-68df6de95b3b
  (name "ROYALOHM")
- (description "This is a unnoficial testing LibrePCB library. \nROYALOHM Carbon film fixed resistors package and components.\nIPC-7251 Naming Convention: http://www.pcb-3d.com/electric_type/resistors-axial-diameter-horizontal-resad/")
+ (description "This is a unnoficial testing LibrePCB library. \nROYALOHM Carbon film fixed resistors CFR0S4 and CFR0W4 (THD 1/4W) all values and order code TME.EU.\nIPC-7251 Naming Convention: http://www.pcb-3d.com/electric_type/resistors-axial-diameter-horizontal-resad/")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")

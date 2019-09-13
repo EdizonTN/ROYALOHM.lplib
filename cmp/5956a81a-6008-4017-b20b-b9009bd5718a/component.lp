@@ -1,6 +1,6 @@
 (librepcb_component 5956a81a-6008-4017-b20b-b9009bd5718a
  (name "RES Axial, 160Ω, 0.25W, ±5%, Serie CFR0W4")
- (description "THD, 160Ω, 0.25W, ±5%, Ø2.5x6.8mm\nCFRW4J0161A50")
+ (description "THD, 160Ω, 0.25W, ±5%, Ø2.5x6.8mm\nCFR0W4J0161A50")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")

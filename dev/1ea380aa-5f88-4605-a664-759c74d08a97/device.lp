@@ -1,6 +1,6 @@
 (librepcb_device 1ea380aa-5f88-4605-a664-759c74d08a97
  (name "ZOC0W4J0000A50")
- (description "")
+ (description "THD, 0.25W, ±5%, Ø2.5x6.8mm, Royalohm")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -9,6 +9,6 @@
  (category 1039f038-20a6-4bfe-89c1-99f34fbb45bd)
  (component d4ee101d-d9c8-4ccb-9615-fe848476593d)
  (package 04cb19cf-2825-43d6-9101-43a86bad57b8)
- (pad 34428af5-d704-4f5e-a3bf-d780b6317166 (signal none))
- (pad dfa66753-2bbb-4bff-85ce-ce5676f8b7a3 (signal none))
+ (pad 34428af5-d704-4f5e-a3bf-d780b6317166 (signal aa361e69-9128-459e-84bc-57e1f7e3f2aa))
+ (pad dfa66753-2bbb-4bff-85ce-ce5676f8b7a3 (signal e717e546-b6ae-426e-8504-b584433ba91c))
 )

@@ -1,6 +1,6 @@
 (librepcb_component d4ee101d-d9c8-4ccb-9615-fe848476593d
  (name "RES Axial, 0Ω, 0.25W, ±5%, Serie CFR0W4")
- (description "THD, 0Ω, 0.25W, ±5%, Ø2.5x6.8mm. ZOC0W4J0000A50")
+ (description "THD, 0Ω, 0.25W, ±5%, Ø2.5x6.8mm. \nZOC0W4J0000A50")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")

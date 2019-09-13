@@ -1,6 +1,6 @@
 (librepcb_component bbb22f89-49ef-4dfb-87ab-88aa8fa47f83
  (name "RES Axial, 160kΩ, 0.25W, ±5%, Serie CFR0W4")
- (description "THD, 160kΩ, 0.25W, ±5%, Ø2.5x6.8mm\nCFRW4J0164A50")
+ (description "THD, 160kΩ, 0.25W, ±5%, Ø2.5x6.8mm\nCFR0W4J0164A50")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -10,7 +10,7 @@
  (schematic_only false)
  (default_value "{{VALUE}}")
  (prefix "R")
- (attribute "MPN" (type string) (unit none) (value "CFRW4J0164A50"))
+ (attribute "MPN" (type string) (unit none) (value "CFR0W4J0164A50"))
  (attribute "ORDERCODE_TME" (type string) (unit none) (value "1/4W160K"))
  (attribute "DATASHEET" (type string) (unit none) (value "https://www.tme.eu/Document/3181dd48312689b59bff6130e2889fcb/CarbonFilm.pdf"))
  (attribute "VALUE" (type resistance) (unit kiloohm) (value "160"))
