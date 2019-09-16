@@ -9,6 +9,9 @@ IPC-7251 Naming Convention: http://www.pcb-3d.com/electric_type/resistors-axial-
 
 201 devices
 
+## How to add library to your LibrePCB
+see https://github.com/EdizonTN/ROYALOHM.lplib/wiki
+
 ## License
 
 Creative Commons (CC0-1.0). For the license text, see [LICENSE.txt](LICENSE.txt).
