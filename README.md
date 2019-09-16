@@ -11,4 +11,4 @@ IPC-7251 Naming Convention: http://www.pcb-3d.com/electric_type/resistors-axial-
 
 ## License
 
-No license set.
+Creative Commons (CC0-1.0). For the license text, see [LICENSE.txt](LICENSE.txt).
