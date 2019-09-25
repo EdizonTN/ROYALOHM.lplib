@@ -7,7 +7,7 @@ ROYALOHM Carbon film fixed resistors CFR0S4 and CFR0W4 (THD 1/4W) all values and
 
 IPC-7251 Naming Convention: http://www.pcb-3d.com/electric_type/resistors-axial-diameter-horizontal-resad/
 
-Total: 200 devices
+Total: 201 devices
 
 
 ## How to add library to your LibrePCB
